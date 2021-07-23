@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pruebamintic"
+    }
+  },
+  "defaultProject": "pruebamintic",
+  "cli": {
+    "analytics": false
+  }
 }
